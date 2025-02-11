@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Nelson Chidi (nickname: Nelmatrix), and I am a passionate software and robotics engineer.
+I have over 4 years of experience in the field of software development and programming, and I have been working with electronics and hardware since my childhood.
+I have seen and understood the growth and potential of technology since childhood and since then, my core goal has been the same: to solve as many problems as possible using technology.
 <!--
 **NelMatrix743/NelMatrix743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
