@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Nelson Chidi (nickname: Nelmatrix), and I am a passionate software and robotics engineer.
+I am Nelson Chidi (nickname: Nelmatrix). I am a passionate software engineer, and an aspiring robotics engineer.
 I have over 4 years of experience in the field of software development and programming, and I have been working with electronics and hardware since my childhood.
 Right from my youngest age, I saw and understood the growth and potential of technology and since then, my core goal has been the same: to solve as many problems as possible using technology.
 <!--
