@@ -1,4 +1,4 @@
-## Hi there (^_~)
+## Hi there 😉
 
 I am Nelson Chidi (nickname: Nelmatrix). I am a passionate software engineer, and an aspiring robotics engineer.
 I have over 4 years of experience in the field of software development and programming, and I have been working with electronics and hardware since my childhood.
